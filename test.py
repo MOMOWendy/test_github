@@ -4,3 +4,6 @@ d = 5
 e = 'wendy'
 string = 'manager'
 str = 'man'
+
+
+
