@@ -4,6 +4,4 @@ d = 5
 e = 'wendy'
 string = 'manager'
 str = 'man'
-
-
-
+num = 10
